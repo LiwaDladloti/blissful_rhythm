@@ -344,3 +344,14 @@ footer {
 .margin-control {
     margin: 5%
 }
+
+.img-radius {
+    border-radius: 100%;
+    width: 300px;
+    height: 200px;
+    align-content: center;
+}
+
+.align-center {
+    text-align: center;
+}
