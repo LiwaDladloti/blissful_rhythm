@@ -340,3 +340,7 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.margin-control {
+    margin: 5%
+}
