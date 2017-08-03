@@ -1,0 +1,23 @@
+{
+  "name": "blissful_rhythm",
+  "version": "1.0.0",
+  "description": "music webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiwaDladloti/blissful_rhythm.git"
+  },
+  "author": "Liwa Dladloti",
+  "license": "ISC",
+    "dependencies": {
+        "express": "*"
+    },
+  "bugs": {
+    "url": "https://github.com/LiwaDladloti/blissful_rhythm/issues"
+  },
+  "homepage": "https://github.com/LiwaDladloti/blissful_rhythm#readme"
+}
