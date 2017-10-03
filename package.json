@@ -14,7 +14,8 @@
   "author": "Liwa Dladloti",
   "license": "ISC",
     "dependencies": {
-        "express": "*"
+        "express": "*",
+        "express-handlebars": "*"
     },
   "bugs": {
     "url": "https://github.com/LiwaDladloti/blissful_rhythm/issues"
