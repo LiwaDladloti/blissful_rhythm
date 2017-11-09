@@ -1,5 +1,6 @@
 const express = require('express');
 var exphbs = require('express-handlebars');
+var mongoose = require('mongoose');
 const app = express();
 
 app.use('/blissful_sounds', express.static('blissful_sounds'));

@@ -13,10 +13,12 @@
   },
   "author": "Liwa Dladloti",
   "license": "ISC",
-    "dependencies": {
-        "express": "*",
-        "express-handlebars": "*"
-    },
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.1"
+  },
   "bugs": {
     "url": "https://github.com/LiwaDladloti/blissful_rhythm/issues"
   },
